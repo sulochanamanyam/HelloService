@@ -10,7 +10,7 @@ git add README.md
 git commit -m "first commit"
 
 # Add git Remote
-git remote add origin https://github.com/sulochanamanyam/UIProject.git
+git remote add origin https://github.com/sulochanamanyam/HelloService.git
 
 # Push  the code to git
 git push -u origin master
