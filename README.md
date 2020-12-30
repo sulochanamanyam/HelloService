@@ -1,4 +1,4 @@
-# HelloService
+# GIT Commands
 
 # Initialize Git Repositary
 git init
