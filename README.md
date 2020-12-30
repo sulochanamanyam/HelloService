@@ -4,7 +4,7 @@
 git init
 
 # Add files to git Repo
-git add README.md
+git add *
 
 # Commit files to git
 git commit -m "first commit"
