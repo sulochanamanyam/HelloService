@@ -14,3 +14,5 @@ git remote add origin https://github.com/sulochanamanyam/HelloService.git
 
 # Push  the code to git
 git push -u origin master
+# Clone the project
+ git clone https://github.com/sulochanamanyam/HelloService.git
