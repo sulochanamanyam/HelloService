@@ -4,7 +4,7 @@
 git init
 
 # Add files to git Repo
-git add *
+git add .
 
 # Commit files to git
 git commit -m "first commit"
